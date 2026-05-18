@@ -321,6 +321,7 @@ code {
 .mission-text, .hint-text {
   color: var(--muted);
   line-height: 1.7;
+  padding-left: 20px;
 }
 
 .hint-box {
